@@ -7,7 +7,7 @@
 <img align="right" alt="code" width="400" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [https://karthick181998.github.io/karthick/](https://karthick181998.github.io/karthick/)
+- 👨‍💻 All of my projects are available at [https://skarthickbe.github.io/karthick/](https://skarthickbe.github.io/karthick/)
 
 - 💬 Ask me about **Java, Angular**
 
